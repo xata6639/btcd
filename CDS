@@ -1,0 +1,11 @@
+# Set the following properties for your environment 
+CDS_HOME="/usr/local/cdshome" 
+CDS_DEPL_NAME="cds" 
+JAVA_HOME="/usr/j2se" 
+ 
+# Set the following parameters for CDSBillingSubscriber 
+clientID="CDSBillingSubscriberUniqueClientID" 
+subName="CDSBillingSubscriberUniqueSubscriptionName" 
+selector="null" 
+durable="false" 
+transactional="false" 
